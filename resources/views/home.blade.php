@@ -3,7 +3,7 @@
 @section('content')
 @if(@session('success'))
     <div class="alert alert-success" role="alert">
-        <strong>Data has been created</strong>
+        <strong>Data has been created too</strong>
     </div>
 @endif
 
